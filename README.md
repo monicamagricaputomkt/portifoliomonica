@@ -2,7 +2,7 @@
 
 Site pessoal de portfólio profissional, reunindo projetos de **Social Media**, **Estratégia de Conteúdo** e **Marketing Digital** desenvolvidos ao longo da minha trajetória como profissional de Comunicação Social.
 
-
+https://monicamagricaputomkt.github.io/portifoliomonica/
 
 ---
 
